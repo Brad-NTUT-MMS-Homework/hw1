@@ -9,6 +9,6 @@ int main() {
 	arraw();
 	spacing();
 	diamond();
-
+	 
 	system("pause");
 }
